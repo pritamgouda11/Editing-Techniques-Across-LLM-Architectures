@@ -1,4 +1,5 @@
-## Overview
+## Evaluating Model Editing Techniques Across Architectures
+### CSA - E0 334 - 2024 | Term Project
 
 This project investigates model editing techniques for Large Language Models (LLMs), focusing on how these models can be modified in specific domains without compromising overall performance.
 
